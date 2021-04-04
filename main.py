@@ -275,4 +275,4 @@ async def reroll(ctx, channel : discord.TextChannel, id_ : int):
 
 
 
-client.run("token")
+client.run("ODI4MTU0MDE0NzkyOTQxNTc5.YGlchw.9dkxkxQUKnngG3S5z2rQPT28mX8")
